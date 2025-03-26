@@ -14,9 +14,11 @@
 - Tailwind CSS
 - React
 - Vite/Remix
+- Vue
 
 ### Backend
 - Node.js
+- Django
 - TypeScript
 - MongoDB
 - PostgreSQL
